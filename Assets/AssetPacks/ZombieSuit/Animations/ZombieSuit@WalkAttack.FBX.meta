@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 7c838300377736f4ab2f789862d54933
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ZombieGasbag1
+    100002: ZombieHead
+    100004: ZombieHood
+    100006: ZombieLCalf
+    100008: ZombieLCollarbone
+    100010: ZombieLDigit11
+    100012: ZombieLDigit11 1
+    100014: ZombieLDigit12
+    100016: ZombieLDigit13
+    100018: ZombieLDigit21
+    100020: ZombieLDigit22
+    100022: ZombieLDigit23
+    100024: ZombieLDigit31
+    100026: ZombieLDigit32
+    100028: ZombieLDigit33
+    100030: ZombieLDigit41
+    100032: ZombieLDigit42
+    100034: ZombieLDigit43
+    100036: ZombieLDigit51
+    100038: ZombieLDigit52
+    100040: ZombieLDigit53
+    100042: ZombieLEyelid
+    100044: ZombieLFoot
+    100046: ZombieLForearm
+    100048: ZombieLJaw1
+    100050: ZombieLJaw2
+    100052: ZombieLPalm
+    100054: ZombieLThigh
+    100056: ZombieLUpperarm
+    100058: ZombieNeck
+    100060: ZombiePelvis
+    100062: ZombieRCalf
+    100064: ZombieRCollarbone
+    100066: ZombieRDigit11
+    100068: ZombieRDigit11 1
+    100070: ZombieRDigit12
+    100072: ZombieRDigit13
+    100074: ZombieRDigit21
+    100076: ZombieRDigit22
+    100078: ZombieRDigit23
+    100080: ZombieRDigit31
+    100082: ZombieRDigit32
+    100084: ZombieRDigit33
+    100086: ZombieRDigit41
+    100088: ZombieRDigit42
+    100090: ZombieRDigit43
+    100092: ZombieRDigit51
+    100094: ZombieRDigit52
+    100096: ZombieRDigit53
+    100098: ZombieREyelid
+    100100: ZombieRFoot
+    100102: ZombieRForearm
+    100104: ZombieRibcage
+    100106: ZombieRJaw1
+    100108: ZombieRJaw2
+    100110: ZombieRPalm
+    100112: ZombieRThigh
+    100114: ZombieRUpperarm
+    100116: ZombieSpine1
+    100118: ZombieSpine2
+    100120: ZombieSuit
+    100122: //RootNode
+    100124: ZombieLFDigit11
+    100126: ZombieRFDigit11
+    400000: ZombieGasbag1
+    400002: ZombieHead
+    400004: ZombieHood
+    400006: ZombieLCalf
+    400008: ZombieLCollarbone
+    400010: ZombieLDigit11
+    400012: ZombieLDigit11 1
+    400014: ZombieLDigit12
+    400016: ZombieLDigit13
+    400018: ZombieLDigit21
+    400020: ZombieLDigit22
+    400022: ZombieLDigit23
+    400024: ZombieLDigit31
+    400026: ZombieLDigit32
+    400028: ZombieLDigit33
+    400030: ZombieLDigit41
+    400032: ZombieLDigit42
+    400034: ZombieLDigit43
+    400036: ZombieLDigit51
+    400038: ZombieLDigit52
+    400040: ZombieLDigit53
+    400042: ZombieLEyelid
+    400044: ZombieLFoot
+    400046: ZombieLForearm
+    400048: ZombieLJaw1
+    400050: ZombieLJaw2
+    400052: ZombieLPalm
+    400054: ZombieLThigh
+    400056: ZombieLUpperarm
+    400058: ZombieNeck
+    400060: ZombiePelvis
+    400062: ZombieRCalf
+    400064: ZombieRCollarbone
+    400066: ZombieRDigit11
+    400068: ZombieRDigit11 1
+    400070: ZombieRDigit12
+    400072: ZombieRDigit13
+    400074: ZombieRDigit21
+    400076: ZombieRDigit22
+    400078: ZombieRDigit23
+    400080: ZombieRDigit31
+    400082: ZombieRDigit32
+    400084: ZombieRDigit33
+    400086: ZombieRDigit41
+    400088: ZombieRDigit42
+    400090: ZombieRDigit43
+    400092: ZombieRDigit51
+    400094: ZombieRDigit52
+    400096: ZombieRDigit53
+    400098: ZombieREyelid
+    400100: ZombieRFoot
+    400102: ZombieRForearm
+    400104: ZombieRibcage
+    400106: ZombieRJaw1
+    400108: ZombieRJaw2
+    400110: ZombieRPalm
+    400112: ZombieRThigh
+    400114: ZombieRUpperarm
+    400116: ZombieSpine1
+    400118: ZombieSpine2
+    400120: ZombieSuit
+    400122: //RootNode
+    400124: ZombieLFDigit11
+    400126: ZombieRFDigit11
+    2100000: 03 - Default
+    4300000: ZombieSuit
+    7400000: WalkAttack
+    9500000: //RootNode
+    13700000: ZombieSuit
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: afc5a416466478d42b2a8941d94de239, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WalkAttack
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: ZombiePelvis
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: be0f5209b9e277f428f3aa0a4846f096,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

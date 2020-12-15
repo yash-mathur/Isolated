@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: be0f5209b9e277f428f3aa0a4846f096
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: HumanGasbag1
+    100002: HumanHead
+    100004: HumanHood
+    100006: HumanLCalf
+    100008: HumanLCollarbone
+    100010: HumanLDigit11
+    100012: HumanLDigit11 1
+    100014: HumanLDigit12
+    100016: HumanLDigit13
+    100018: HumanLDigit21
+    100020: HumanLDigit22
+    100022: HumanLDigit23
+    100024: HumanLDigit31
+    100026: HumanLDigit32
+    100028: HumanLDigit33
+    100030: HumanLDigit41
+    100032: HumanLDigit42
+    100034: HumanLDigit43
+    100036: HumanLDigit51
+    100038: HumanLDigit52
+    100040: HumanLDigit53
+    100042: HumanLEyelid
+    100044: HumanLFoot
+    100046: HumanLForearm
+    100048: HumanLPalm
+    100050: HumanLThigh
+    100052: HumanLUpperarm
+    100054: HumanNeck
+    100056: HumanPelvis
+    100058: HumanRCalf
+    100060: HumanRCollarbone
+    100062: HumanRDigit11
+    100064: HumanRDigit11 1
+    100066: HumanRDigit12
+    100068: HumanRDigit13
+    100070: HumanRDigit21
+    100072: HumanRDigit22
+    100074: HumanRDigit23
+    100076: HumanRDigit31
+    100078: HumanRDigit32
+    100080: HumanRDigit33
+    100082: HumanRDigit41
+    100084: HumanRDigit42
+    100086: HumanRDigit43
+    100088: HumanRDigit51
+    100090: HumanRDigit52
+    100092: HumanRDigit53
+    100094: HumanREyelid
+    100096: HumanRFoot
+    100098: HumanRForearm
+    100100: HumanRibcage
+    100102: HumanRJaw2
+    100104: HumanRJawRJaw
+    100106: HumanRPalm
+    100108: HumanRThigh
+    100110: HumanRUpperarm
+    100112: HumanSpine1
+    100114: HumanSpine2
+    100116: HumanTail1
+    100118: HumanTail2
+    100120: LowPolySuit003
+    100122: //RootNode
+    100124: ZombieGasbag1
+    100126: ZombieHead
+    100128: ZombieHood
+    100130: ZombieLCalf
+    100132: ZombieLCollarbone
+    100134: ZombieLDigit11
+    100136: ZombieLDigit11 1
+    100138: ZombieLDigit12
+    100140: ZombieLDigit13
+    100142: ZombieLDigit21
+    100144: ZombieLDigit22
+    100146: ZombieLDigit23
+    100148: ZombieLDigit31
+    100150: ZombieLDigit32
+    100152: ZombieLDigit33
+    100154: ZombieLDigit41
+    100156: ZombieLDigit42
+    100158: ZombieLDigit43
+    100160: ZombieLDigit51
+    100162: ZombieLDigit52
+    100164: ZombieLDigit53
+    100166: ZombieLEyelid
+    100168: ZombieLFoot
+    100170: ZombieLForearm
+    100172: ZombieLJaw1
+    100174: ZombieLJaw2
+    100176: ZombieLPalm
+    100178: ZombieLThigh
+    100180: ZombieLUpperarm
+    100182: ZombieNeck
+    100184: ZombiePelvis
+    100186: ZombieRCalf
+    100188: ZombieRCollarbone
+    100190: ZombieRDigit11
+    100192: ZombieRDigit11 1
+    100194: ZombieRDigit12
+    100196: ZombieRDigit13
+    100198: ZombieRDigit21
+    100200: ZombieRDigit22
+    100202: ZombieRDigit23
+    100204: ZombieRDigit31
+    100206: ZombieRDigit32
+    100208: ZombieRDigit33
+    100210: ZombieRDigit41
+    100212: ZombieRDigit42
+    100214: ZombieRDigit43
+    100216: ZombieRDigit51
+    100218: ZombieRDigit52
+    100220: ZombieRDigit53
+    100222: ZombieREyelid
+    100224: ZombieRFoot
+    100226: ZombieRForearm
+    100228: ZombieRibcage
+    100230: ZombieRJaw1
+    100232: ZombieRJaw2
+    100234: ZombieRPalm
+    100236: ZombieRThigh
+    100238: ZombieRUpperarm
+    100240: ZombieSpine1
+    100242: ZombieSpine2
+    100244: ZombieSuit
+    100246: ZombieLFDigit11
+    100248: ZombieRFDigit11
+    400000: HumanGasbag1
+    400002: HumanHead
+    400004: HumanHood
+    400006: HumanLCalf
+    400008: HumanLCollarbone
+    400010: HumanLDigit11
+    400012: HumanLDigit11 1
+    400014: HumanLDigit12
+    400016: HumanLDigit13
+    400018: HumanLDigit21
+    400020: HumanLDigit22
+    400022: HumanLDigit23
+    400024: HumanLDigit31
+    400026: HumanLDigit32
+    400028: HumanLDigit33
+    400030: HumanLDigit41
+    400032: HumanLDigit42
+    400034: HumanLDigit43
+    400036: HumanLDigit51
+    400038: HumanLDigit52
+    400040: HumanLDigit53
+    400042: HumanLEyelid
+    400044: HumanLFoot
+    400046: HumanLForearm
+    400048: HumanLPalm
+    400050: HumanLThigh
+    400052: HumanLUpperarm
+    400054: HumanNeck
+    400056: HumanPelvis
+    400058: HumanRCalf
+    400060: HumanRCollarbone
+    400062: HumanRDigit11
+    400064: HumanRDigit11 1
+    400066: HumanRDigit12
+    400068: HumanRDigit13
+    400070: HumanRDigit21
+    400072: HumanRDigit22
+    400074: HumanRDigit23
+    400076: HumanRDigit31
+    400078: HumanRDigit32
+    400080: HumanRDigit33
+    400082: HumanRDigit41
+    400084: HumanRDigit42
+    400086: HumanRDigit43
+    400088: HumanRDigit51
+    400090: HumanRDigit52
+    400092: HumanRDigit53
+    400094: HumanREyelid
+    400096: HumanRFoot
+    400098: HumanRForearm
+    400100: HumanRibcage
+    400102: HumanRJaw2
+    400104: HumanRJawRJaw
+    400106: HumanRPalm
+    400108: HumanRThigh
+    400110: HumanRUpperarm
+    400112: HumanSpine1
+    400114: HumanSpine2
+    400116: HumanTail1
+    400118: HumanTail2
+    400120: LowPolySuit003
+    400122: //RootNode
+    400124: ZombieGasbag1
+    400126: ZombieHead
+    400128: ZombieHood
+    400130: ZombieLCalf
+    400132: ZombieLCollarbone
+    400134: ZombieLDigit11
+    400136: ZombieLDigit11 1
+    400138: ZombieLDigit12
+    400140: ZombieLDigit13
+    400142: ZombieLDigit21
+    400144: ZombieLDigit22
+    400146: ZombieLDigit23
+    400148: ZombieLDigit31
+    400150: ZombieLDigit32
+    400152: ZombieLDigit33
+    400154: ZombieLDigit41
+    400156: ZombieLDigit42
+    400158: ZombieLDigit43
+    400160: ZombieLDigit51
+    400162: ZombieLDigit52
+    400164: ZombieLDigit53
+    400166: ZombieLEyelid
+    400168: ZombieLFoot
+    400170: ZombieLForearm
+    400172: ZombieLJaw1
+    400174: ZombieLJaw2
+    400176: ZombieLPalm
+    400178: ZombieLThigh
+    400180: ZombieLUpperarm
+    400182: ZombieNeck
+    400184: ZombiePelvis
+    400186: ZombieRCalf
+    400188: ZombieRCollarbone
+    400190: ZombieRDigit11
+    400192: ZombieRDigit11 1
+    400194: ZombieRDigit12
+    400196: ZombieRDigit13
+    400198: ZombieRDigit21
+    400200: ZombieRDigit22
+    400202: ZombieRDigit23
+    400204: ZombieRDigit31
+    400206: ZombieRDigit32
+    400208: ZombieRDigit33
+    400210: ZombieRDigit41
+    400212: ZombieRDigit42
+    400214: ZombieRDigit43
+    400216: ZombieRDigit51
+    400218: ZombieRDigit52
+    400220: ZombieRDigit53
+    400222: ZombieREyelid
+    400224: ZombieRFoot
+    400226: ZombieRForearm
+    400228: ZombieRibcage
+    400230: ZombieRJaw1
+    400232: ZombieRJaw2
+    400234: ZombieRPalm
+    400236: ZombieRThigh
+    400238: ZombieRUpperarm
+    400240: ZombieSpine1
+    400242: ZombieSpine2
+    400244: ZombieSuit
+    400246: ZombieLFDigit11
+    400248: ZombieRFDigit11
+    2100000: 03 - Default
+    4300000: LowPolySuit003
+    4300002: ZombieSuit
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: LowPolySuit003
+    13700002: ZombieSuit
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: afc5a416466478d42b2a8941d94de239, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: ZombiePelvis
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
